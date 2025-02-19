@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Real time-chatAPP**
 
-- 🌱 I’m currently learning ** 🚀 Backend dev | Node.js | MongoDB | WebSockets | "Reactnative . 💻✨**
+- 🌱 I’m currently learning ** 🚀|MongoDB | WebSockets | |Reactnative| . 💻✨**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **  🚀MERN full stack**
 
 - 📫 How to reach me **abdulrazzak1835@gmail.com**
 
