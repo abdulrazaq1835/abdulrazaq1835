@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Real time-chatAPP**
 
-- 🌱 I’m currently learning **Reactnative**
+- 🌱 I’m currently learning ** 🚀 Backend dev | Node.js | MongoDB | WebSockets | "Reactnative . 💻✨**
 
 - 💬 Ask me about **MERN**
 
