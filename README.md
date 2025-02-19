@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrazaq1835&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrazaq1835" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdulrazza75563" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrazza75563?logo=twitter&style=for-the-badge" alt="abdulrazza75563" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerce website**
+- 🔭 I’m currently working on **Real time-chatAPP**
 
 - 🌱 I’m currently learning **Reactnative**
 
