@@ -1,4 +1,4 @@
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffull-stack-web%3Fimage_type%3Dillustration&psig=AOvVaw0LO_tWPlg2-Y913H03QtKy&ust=1740219916625000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiSqszG1IsDFQAAAAAdAAAAABAJ"/>
+<img src ="https://dribbble.com/shots/4022507-We-re-recruiting"/>
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
