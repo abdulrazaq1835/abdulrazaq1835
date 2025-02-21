@@ -1,4 +1,4 @@
-<img src ="https://cdn.dribbble.com/userupload/22396993/file/original-c1242bf2f76c1a9cd918cf39cc172c6e.gif"/>
+<img src ="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif"/>
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
