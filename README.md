@@ -1,5 +1,5 @@
 
-![img alt]("https://github.com/abdulrazaq1835/abdulrazaq1835/blob/main/mygithub.jpg?raw=true")
+![logo]("https://github.com/abdulrazaq1835/abdulrazaq1835/blob/main/mygithub.jpg?raw=true")
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
