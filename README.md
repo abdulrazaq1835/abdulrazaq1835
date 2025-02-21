@@ -1,5 +1,5 @@
 
-![logo]("")
+![logo]("file:///D:/Downloads/DALL%C2%B7E%202025-02-21%2022.56.52%20-%20A%20modern%20GitHub%20profile%20banner%20featuring%20the%20text%20'@AbdulRazaq'%20and%20'Full%20Stack%20Developer'.%20The%20design%20should%20be%20tech-inspired%20with%20a%20sleek,%20minimalis.webp")
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
