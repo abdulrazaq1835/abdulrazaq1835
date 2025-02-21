@@ -1,5 +1,5 @@
 
-![logo](https://github.com/arunkrofficial/arunkrofficial/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo]("")
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
