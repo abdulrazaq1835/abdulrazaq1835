@@ -1,5 +1,5 @@
 
-![logo]("file:///D:/Downloads/DALL%C2%B7E%202025-02-21%2022.56.52%20-%20A%20modern%20GitHub%20profile%20banner%20featuring%20the%20text%20'@AbdulRazaq'%20and%20'Full%20Stack%20Developer'.%20The%20design%20should%20be%20tech-inspired%20with%20a%20sleek,%20minimalis.webp")
+![logo]("D:\Downloads\DALL·E 2025-02-21 23.11.16 - A wide, eye-catching, and futuristic GitHub profile banner for a full-stack developer named AbdulRazaq. The design features a dark, high-tech backgrou.webp")
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
