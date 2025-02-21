@@ -1,6 +1,5 @@
 
 ![logo]("https://github.com/user-attachments/assets/ef9c2d65-206d-404c-b4a7-5d3418dadfcc")
-")
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
