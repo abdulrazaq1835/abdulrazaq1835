@@ -1,4 +1,4 @@
-<img src ="D:\Downloads\full stack imahe.gif"/>
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4022507-We-re-recruiting&psig=AOvVaw0_aKwcWwvfajho58-x7fA3&ust=1740220132295000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDDr67H1IsDFQAAAAAdAAAAABAE"/>
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
