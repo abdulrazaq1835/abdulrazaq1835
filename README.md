@@ -1,4 +1,4 @@
-<img src ="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
+<img src ="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif width:500vw"/>
 <h1 align="center">Hi 👋, I'm ABDUL razzak</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
